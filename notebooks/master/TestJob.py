@@ -8,3 +8,9 @@ sum = float(val1) + float(val2)
 
 # Displaying the addition result
 print("The sum of given numbers is: ", sum)
+
+# subtract the two given numbers
+subtract = float(val1) - float(val2)
+
+# Displaying the addition result
+print("The subtraction of given numbers is: ", subtract)
